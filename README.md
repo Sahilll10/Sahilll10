@@ -59,8 +59,6 @@ Currently Learning: Advanced Microservices & DevOps
 
 ## 🐍 Contribution Snake Animation
 
-(Add this in `.github/workflows/snake.yml` — I’ll give below)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sahilll10/Sahilll10/output/snake.svg" alt="Snake animation" />
 </p>
